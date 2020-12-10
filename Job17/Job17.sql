@@ -1,0 +1,1 @@
+UPDATE FROM salles SET capacite = 0 WHERE name='Studio Son';

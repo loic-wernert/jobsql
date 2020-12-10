@@ -1,0 +1,1 @@
+SELECT * FROM etudiants where EXTRACT(YEAR from AGE(naissance)) <=18;

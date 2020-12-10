@@ -1,0 +1,1 @@
+SELECT SUM (superficie) AS total FROM etage;
